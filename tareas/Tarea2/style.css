@@ -1,0 +1,61 @@
+header{
+    background-color: gray;
+    border: 20px;
+    border-color: black;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+}
+
+.imgheader{
+    margin-right:420px;
+    margin-left:30px;
+    height: 50px;
+    width: 50px;
+}
+
+.todo{
+    background-color: lightgray;
+    display: flex;
+}
+
+aside{
+    height: auto;
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    background-color: brown;
+    float:left;
+
+}
+
+section{
+    height: auto;
+    width:1000px;
+    margin:20px;
+    padding:10px;
+    background-color: darkcyan;
+    float:left;
+}
+
+article{
+    margin:10px;
+    padding:40px;
+    background-color: green;
+    text-align: justify;
+}
+
+.artimg{
+    margin-right: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+footer{
+    margin:20px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+
