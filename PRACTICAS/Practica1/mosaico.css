@@ -1,0 +1,27 @@
+#wrapper{
+    width: 80%;
+    height:auto;
+    margin: 0 auto;
+    border: 1px solid red;
+    
+}
+
+#mosaico
+{
+    width:95%;
+    height:auto;
+    display: flex;
+    border:1px solid blue;
+    margin: 10px auto;
+    flex-wrap:wrap;
+
+}
+
+#mosaico img{
+    width:19%;
+    height: 19%;
+    border: 1px solid green;
+
+}
+
+
